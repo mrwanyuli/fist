@@ -1,0 +1,4 @@
+﻿  源.c
+D:\c++\vs\Project1\Project1\源.c(4,2): warning C4013: “print”未定义；假设外部返回 int
+源.obj : error LNK2019: 无法解析的外部符号 print，函数 main 中引用了该符号
+D:\c++\vs\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令
